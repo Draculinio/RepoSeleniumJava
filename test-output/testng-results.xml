@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12070" started-at="2019-08-14T17:50:04 ART" finished-at="2019-08-14T17:50:16 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12070" started-at="2019-08-14T17:50:04 ART" finished-at="2019-08-14T17:50:16 ART">
+      <class name="tests.WebTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.WebTest@43814d18]" name="setUp" is-config="true" duration-ms="9750" started-at="2019-08-14T17:50:04 ART" finished-at="2019-08-14T17:50:14 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tests.WebTest@43814d18]" name="login" duration-ms="2216" started-at="2019-08-14T17:50:14 ART" finished-at="2019-08-14T17:50:16 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.WebTest@43814d18]" name="tearDown" is-config="true" duration-ms="64" started-at="2019-08-14T17:50:16 ART" finished-at="2019-08-14T17:50:16 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.WebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
