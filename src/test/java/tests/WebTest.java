@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 
 public class WebTest {
-	private WebDriver driver;
+	private RemoteWebDriver driver;
 	
 	@BeforeMethod
 	public void setUp() {
